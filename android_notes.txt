@@ -1,0 +1,8 @@
+Android dev notes
+
+  Generate a signed apk - https://tutorials.eu/generate-a-signed-apk-in-android-studio-and-upload-it-on-google-play-store/
+  integrate AdMob in android app - https://tutorials.eu/steps-to-integrate-admob-in-your-android-app-in-kotlin/
+  Android RecyclerView in Kotlin - https://tutorials.eu/android-recyclerview-in-kotlin/
+  impl google maps - https://tutorials.eu/implement-the-google-maps-to-your-android-app-with-kotlin/
+
+  
