@@ -5,4 +5,4 @@ Android dev notes
   Android RecyclerView in Kotlin - https://tutorials.eu/android-recyclerview-in-kotlin/
   impl google maps - https://tutorials.eu/implement-the-google-maps-to-your-android-app-with-kotlin/
 
-  
+  Err - If emulator has blank black screen. Goto AVD and wipe data then do a hard reboot. 
